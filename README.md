@@ -1,2 +1,2 @@
 # FightingGame
-This is a 2D fighting game that I'm currently working on. I thought it would be a good way to practice with things like hit boxes. Made with Unity Engine and C#
+This is a 2D fighting game that I started working on a while ago with Unity. The idea was that it would be a good way for me to learn how to properly use the animator with precise animations. It's a pretty good start, but I don't think my animation skills are quite up to the level they need to be to make a fluid fighting game. Though, maybe this will be something to come back to if I improve my animation and art skills.
